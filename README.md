@@ -2,4 +2,3 @@
 - 👀 I’m interested in digital equipment
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on nothing
-- 📫 noway to reach me 
